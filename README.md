@@ -23,4 +23,4 @@ I started by creating a public repository on GitHub and cloning it locally to my
 
 ## Video Walkthrough
 
-*(Link to be added after recording)*
+https://youtu.be/6KJoXxFUkj8
